@@ -161,13 +161,14 @@ body {
     font-size: 40px;
     font-weight: 800;
 }
+
 .hot_deal_off {
-   color: #E55473;
+    color: #E55473;
 }
 
-.hot_deal_area{
+.hot_deal_area {
     text-align: center;
-    
+
 }
 
 .hot_deal_pra {
@@ -185,23 +186,27 @@ body {
     border-radius: 8px;
     background: #E55473;
     border: none;
-    
+
 }
-.instagram_area{
+
+.instagram_area {
     max-width: 1140px;
     margin: 0 auto;
 }
-.instagram_section{
+
+.instagram_section {
     margin-top: 110px;
 }
-.instagram_section_title{
+
+.instagram_section_title {
     color: #272727;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
     margin-bottom: -5px;
 }
-.instagram_section_pra{
+
+.instagram_section_pra {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
@@ -209,12 +214,66 @@ body {
     line-height: 30px;
     margin-bottom: 40px;
 }
-.instagram_section_img{
+
+.instagram_section_img {
     display: flex;
     gap: 24px;
 }
-.instagram_section_img img{
+
+.instagram_section_img img {
     width: 265px;
     height: auto;
-  
+
+}
+
+.deals_section {
+    max-width: 1140px;
+    margin: 0 auto;
+   
+}
+.deals_sections{
+    margin-top: 110px;
+    text-align: center;
+    height: 440px;
+    border-radius: 8px;
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    padding-top: 62px;
+}
+
+.deals_section_title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.deals_section_pra {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: -25px;
+}
+
+.deals_section_imput {
+    width: 600px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+}
+
+.deals_section_button {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    margin-left: 12px;
 }
