@@ -187,3 +187,34 @@ body {
     border: none;
     
 }
+.instagram_area{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.instagram_section{
+    margin-top: 110px;
+}
+.instagram_section_title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: -5px;
+}
+.instagram_section_pra{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 40px;
+}
+.instagram_section_img{
+    display: flex;
+    gap: 24px;
+}
+.instagram_section_img img{
+    width: 265px;
+    height: auto;
+  
+}
