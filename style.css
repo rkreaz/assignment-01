@@ -1,4 +1,42 @@
+
 body {
     font-family: 'Lato', sans-serif;
-    font-family: 'Poppins', sans-serif;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.main_area {
+   max-width: 1140px;
+   margin: 0 auto;
+}
+
+.header {
+    display: flex;
+ 
+}
+
+.header_title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.header_pra {
+    color: #272727;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.header_btn {
+    color: #FFF;
+    font-size: 20px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+}
+
+.header_img {
+    width: 635px;
+    height: 800px;
 }
