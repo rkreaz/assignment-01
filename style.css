@@ -221,12 +221,14 @@ body {
 }
 
 .instagram_section_img img {
+ 
     width: 265px;
     height: auto;
 }
 
 .instagram_section_img img:hover {
-    border: 1px solid green;
+   transform: scale(1.1);
+   z-index: 0.5;
 }
 
 .deals_section {
