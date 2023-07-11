@@ -23,8 +23,8 @@ body {
 
 .header_title {
     color: #272727;
-    font-size: 80px;
-    font-weight: 800;
+    font-size: 60px;
+    font-weight: 900;
 }
 
 .header_pra {
@@ -44,8 +44,8 @@ body {
 }
 
 .header_img {
-    width: 635px;
-    height: 800px;
+    width: 535px;
+    height: 600px;
 }
 
 .Featured_section {
@@ -59,7 +59,7 @@ body {
 .Featured_sections_title {
     color: #272727;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 900;
     margin-bottom: -11px;
 }
 
@@ -159,7 +159,7 @@ body {
 .hot_deal_title {
     color: #272727;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 .hot_deal_off {
@@ -202,7 +202,7 @@ body {
     color: #272727;
     text-align: center;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 900;
     margin-bottom: -5px;
 }
 
@@ -251,7 +251,7 @@ body {
     color: #272727;
     text-align: center;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 900;
     margin-top: 50px;
 }
 
@@ -298,7 +298,7 @@ body {
 .footer_title {
     color: #E55473;
     font-size: 48px;
-    font-weight: 800;
+    font-weight: 900;
     padding-top: 118px;
     margin-bottom: -11px;
 }
@@ -310,7 +310,6 @@ body {
 
 .footer_pra_one {
     color: rgba(255, 255, 255, 0.90);
-    font-family: Lato;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
@@ -318,7 +317,6 @@ body {
 
 .footer_pra_two {
     color: rgba(255, 255, 255, 0.40);
-    font-family: Lato;
     font-size: 16px;
     font-weight: 400;
     padding-bottom: 118px;
